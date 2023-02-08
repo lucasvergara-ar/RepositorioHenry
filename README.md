@@ -1,2 +1,1 @@
-# RepositorioHenry
-Repositorio del ejercicio
+mi primer repositorio para el ejercicio 
